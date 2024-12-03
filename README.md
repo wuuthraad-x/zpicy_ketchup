@@ -34,7 +34,7 @@ docker images -a
 ```
 
 ```bash
-docker run -d -p 8501:8501 entbappy/stapp 
+docker run -d -p 8501:8501 wuuthraad-x/stapp 
 ```
 
 ```bash
